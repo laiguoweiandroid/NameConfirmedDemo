@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NameConfirmedDemo</string>
+    <string name="string_confirm">实名认证</string>
+</resources>
